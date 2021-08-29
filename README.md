@@ -2,7 +2,7 @@
 
 I'm **Sergio** from Ukraine. My main direction - application development on Go. 
 
-You can contact me on [LinkedIn][https://www.linkedin.com/in/sergio-gutsalyuk/] or by [email][mailto:gutsalyuk.sergio@gmail.com].
+You can contact me on [LinkedIn][https://www.linkedin.com/in/sergio-gutsalyuk/] or by [email][gutsalyuk.sergio@gmail.com].
 
 ## Languages and Tools:
 
